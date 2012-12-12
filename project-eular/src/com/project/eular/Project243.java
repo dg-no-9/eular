@@ -26,7 +26,7 @@ public class Project243 {
 	}
 
 	private static double R(int d){
-		double [] primes = new double [] {2,3,5,7,11,13,17,19,23,29};
+		double [] primes = new double [] {2,3,5,7,11,13,17,19};
 		double value = (double)primes.length;
 		double v2 = 1;
 		for(int i = 0; i < primes.length; i++){
